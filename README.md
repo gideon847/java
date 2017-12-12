@@ -1,5 +1,4 @@
 # java
-Arrays
+This is some core java code on Data Structures such  as  Array, ArrayList, Map and HashMap.
 
-String[] name = new String[]{"He","She","it"};
-name[0] // He
+
